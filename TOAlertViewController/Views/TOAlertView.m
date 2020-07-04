@@ -21,7 +21,7 @@
 //  IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #import "TOAlertView.h"
-#import "TORoundedButton.h"
+#import <TORoundedButton/TORoundedButton.h>
 #import "TOAlertAction.h"
 #import "TOAlertViewConstants.h"
 
